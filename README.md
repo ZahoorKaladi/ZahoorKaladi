@@ -15,9 +15,9 @@
 
 - 📝 I regularly write articles on [Technologies ,Large Language Model](Technologies ,Large Language Model)
 
-- 💬 Ask me about **Python ,Tensor Flow**
+- 💬 Ask me about **Python ,Tensor Flow,Pytorch,**
 
-- 📫 How to reach me **zahoorkaladi19@**
+- 📫 How to reach me **zahoorkaladi19@gmail.com**
 
 - ⚡ Fun fact **I think iam funny**
 
