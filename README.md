@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **zahoorkaladi19@gmail.com**
 
-- ⚡ Fun fact **I think iam funny**
+- ⚡ Fun fact **I think iam not  funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
