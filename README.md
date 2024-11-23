@@ -1,2 +1,2 @@
-## Hi there  This is Blog AssigAssignment 👋
+## Hi 👋 this is My Personal Blog Project 
 
